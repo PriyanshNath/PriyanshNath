@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Prajnan Nath</h1>
+<h1 align="center">Hi 👋, I'm Priyansh Nath</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
 - 🌱 I’m currently pursuing **BCA at Bodoland University**
 
-- 📫 How to reach me **pragyannath2007@gmail.com**
+- 📫 How to reach me **priyanshnath2007@gmail.com**
 
 - ⚡ Fun fact **Always ready for new projects**
 
